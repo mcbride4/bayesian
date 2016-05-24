@@ -1,0 +1,403 @@
+after correlation
+prepared data
+Number of watched films:  59
+Split 118 rows into train=80 and test=38 rows
+predictions: 
+score:  92.1052631579
+Number of watched films:  57
+Split 114 rows into train=77 and test=37 rows
+predictions: 
+score:  97.2972972973
+Number of watched films:  95
+Split 190 rows into train=128 and test=62 rows
+predictions: 
+score:  98.3870967742
+Number of watched films:  21
+Split 42 rows into train=29 and test=13 rows
+predictions: 
+score:  100.0
+Number of watched films:  159
+Split 318 rows into train=214 and test=104 rows
+predictions: 
+score:  92.3076923077
+Number of watched films:  210
+Split 420 rows into train=282 and test=138 rows
+predictions: 
+score:  89.8550724638
+Number of watched films:  90
+Split 180 rows into train=121 and test=59 rows
+predictions: 
+score:  67.7966101695
+Number of watched films:  44
+Split 88 rows into train=59 and test=29 rows
+predictions: 
+score:  100.0
+Number of watched films:  22
+Split 44 rows into train=30 and test=14 rows
+predictions: 
+score:  92.8571428571
+Number of watched films:  74
+Split 148 rows into train=100 and test=48 rows
+predictions: 
+score:  83.3333333333
+Number of watched films:  94
+Split 188 rows into train=126 and test=62 rows
+predictions: 
+score:  90.3225806452
+Number of watched films:  234
+Split 468 rows into train=314 and test=154 rows
+predictions: 
+score:  99.3506493506
+Number of watched films:  361
+Split 611 rows into train=410 and test=201 rows
+predictions: 
+score:  96.0199004975
+Number of watched films:  140
+Split 280 rows into train=188 and test=92 rows
+predictions: 
+score:  96.7391304348
+Number of watched films:  111
+Split 222 rows into train=149 and test=73 rows
+predictions: 
+score:  91.7808219178
+Number of watched films:  66
+Split 132 rows into train=89 and test=43 rows
+predictions: 
+score:  88.3720930233
+Number of watched films:  17
+Split 34 rows into train=23 and test=11 rows
+predictions: 
+score:  100.0
+Number of watched films:  16
+Split 32 rows into train=22 and test=10 rows
+predictions: 
+score:  100.0
+Number of watched films:  148
+Split 296 rows into train=199 and test=97 rows
+predictions: 
+score:  98.9690721649
+Number of watched films:  35
+Split 70 rows into train=47 and test=23 rows
+predictions: 
+score:  100.0
+Number of watched films:  84
+Split 168 rows into train=113 and test=55 rows
+predictions: 
+score:  100.0
+Number of watched films:  57
+Split 114 rows into train=77 and test=37 rows
+predictions: 
+score:  97.2972972973
+Number of watched films:  499
+Split 749 rows into train=502 and test=247 rows
+predictions: 
+score:  89.0688259109
+Number of watched films:  376
+Split 626 rows into train=420 and test=206 rows
+predictions: 
+score:  83.0097087379
+Number of watched films:  233
+Split 466 rows into train=313 and test=153 rows
+predictions: 
+score:  94.1176470588
+Number of watched films:  306
+Split 556 rows into train=373 and test=183 rows
+predictions: 
+score:  92.349726776
+Number of watched films:  154
+Split 308 rows into train=207 and test=101 rows
+predictions: 
+score:  94.0594059406
+Number of watched films:  50
+Split 100 rows into train=67 and test=33 rows
+predictions: 
+score:  100.0
+Number of watched films:  91
+Split 182 rows into train=122 and test=60 rows
+predictions: 
+score:  98.3333333333
+Number of watched films:  117
+Split 234 rows into train=157 and test=77 rows
+predictions: 
+score:  98.7012987013
+Number of watched films:  75
+Split 150 rows into train=101 and test=49 rows
+predictions: 
+score:  91.8367346939
+Number of watched films:  57
+Split 114 rows into train=77 and test=37 rows
+predictions: 
+score:  94.5945945946
+Number of watched films:  101
+Split 202 rows into train=136 and test=66 rows
+predictions: 
+score:  92.4242424242
+Number of watched films:  75
+Split 150 rows into train=101 and test=49 rows
+predictions: 
+score:  95.9183673469
+Number of watched films:  164
+Split 328 rows into train=220 and test=108 rows
+predictions: 
+score:  90.7407407407
+Number of watched films:  147
+Split 294 rows into train=197 and test=97 rows
+predictions: 
+score:  91.7525773196
+Number of watched films:  15
+Split 30 rows into train=21 and test=9 rows
+predictions: 
+score:  88.8888888889
+Number of watched films:  17
+Split 34 rows into train=23 and test=11 rows
+predictions: 
+score:  90.9090909091
+Number of watched films:  160
+Split 320 rows into train=215 and test=105 rows
+predictions: 
+score:  94.2857142857
+Number of watched films:  167
+Split 334 rows into train=224 and test=110 rows
+predictions: 
+score:  99.0909090909
+Number of watched films:  82
+Split 164 rows into train=110 and test=54 rows
+predictions: 
+score:  98.1481481481
+Number of watched films:  192
+Split 384 rows into train=258 and test=126 rows
+predictions: 
+score:  95.2380952381
+Number of watched films:  80
+Split 160 rows into train=108 and test=52 rows
+predictions: 
+score:  94.2307692308
+Number of watched films:  15
+Split 30 rows into train=21 and test=9 rows
+predictions: 
+score:  100.0
+Number of watched films:  33
+Split 66 rows into train=45 and test=21 rows
+predictions: 
+score:  100.0
+Number of watched films:  168
+Split 336 rows into train=226 and test=110 rows
+predictions: 
+score:  92.7272727273
+Number of watched films:  165
+Split 330 rows into train=222 and test=108 rows
+predictions: 
+score:  100.0
+Number of watched films:  322
+Split 572 rows into train=384 and test=188 rows
+predictions: 
+score:  94.6808510638
+Number of watched films:  74
+Split 148 rows into train=100 and test=48 rows
+predictions: 
+score:  95.8333333333
+Number of watched films:  15
+Split 30 rows into train=21 and test=9 rows
+predictions: 
+score:  88.8888888889
+Number of watched films:  115
+Split 230 rows into train=155 and test=75 rows
+predictions: 
+score:  90.6666666667
+Number of watched films:  60
+Split 120 rows into train=81 and test=39 rows
+predictions: 
+score:  84.6153846154
+Number of watched films:  59
+Split 118 rows into train=80 and test=38 rows
+predictions: 
+score:  92.1052631579
+Number of watched films:  94
+Split 188 rows into train=126 and test=62 rows
+predictions: 
+score:  98.3870967742
+Number of watched films:  54
+Split 108 rows into train=73 and test=35 rows
+predictions: 
+score:  94.2857142857
+Number of watched films:  18
+Split 36 rows into train=25 and test=11 rows
+predictions: 
+score:  100.0
+Number of watched films:  270
+Split 520 rows into train=349 and test=171 rows
+predictions: 
+score:  94.1520467836
+Number of watched films:  332
+Split 582 rows into train=390 and test=192 rows
+predictions: 
+score:  91.6666666667
+Number of watched films:  21
+Split 42 rows into train=29 and test=13 rows
+predictions: 
+score:  92.3076923077
+Number of watched films:  193
+Split 386 rows into train=259 and test=127 rows
+predictions: 
+score:  88.9763779528
+Number of watched films:  175
+Split 350 rows into train=235 and test=115 rows
+predictions: 
+score:  100.0
+Number of watched films:  27
+Split 54 rows into train=37 and test=17 rows
+predictions: 
+score:  100.0
+Number of watched films:  83
+Split 166 rows into train=112 and test=54 rows
+predictions: 
+score:  100.0
+Number of watched films:  474
+Split 724 rows into train=486 and test=238 rows
+predictions: 
+score:  96.6386554622
+Number of watched films:  87
+Split 174 rows into train=117 and test=57 rows
+predictions: 
+score:  100.0
+Number of watched films:  129
+Split 258 rows into train=173 and test=85 rows
+predictions: 
+score:  97.6470588235
+Number of watched films:  63
+Split 126 rows into train=85 and test=41 rows
+predictions: 
+score:  92.6829268293
+Number of watched films:  42
+Split 84 rows into train=57 and test=27 rows
+predictions: 
+score:  81.4814814815
+Number of watched films:  80
+Split 160 rows into train=108 and test=52 rows
+predictions: 
+score:  98.0769230769
+Number of watched films:  21
+Split 42 rows into train=29 and test=13 rows
+predictions: 
+score:  92.3076923077
+Number of watched films:  94
+Split 188 rows into train=126 and test=62 rows
+predictions: 
+score:  95.1612903226
+Number of watched films:  134
+Split 268 rows into train=180 and test=88 rows
+predictions: 
+score:  97.7272727273
+Number of watched films:  27
+Split 54 rows into train=37 and test=17 rows
+predictions: 
+score:  82.3529411765
+Number of watched films:  24
+Split 48 rows into train=33 and test=15 rows
+predictions: 
+score:  93.3333333333
+Number of watched films:  32
+Split 64 rows into train=43 and test=21 rows
+predictions: 
+score:  95.2380952381
+Number of watched films:  54
+Split 108 rows into train=73 and test=35 rows
+predictions: 
+score:  97.1428571429
+Number of watched films:  168
+Split 336 rows into train=226 and test=110 rows
+predictions: 
+score:  99.0909090909
+Number of watched films:  33
+Split 66 rows into train=45 and test=21 rows
+predictions: 
+score:  85.7142857143
+Number of watched films:  48
+Split 96 rows into train=65 and test=31 rows
+predictions: 
+score:  100.0
+Number of watched films:  279
+Split 529 rows into train=355 and test=174 rows
+predictions: 
+score:  95.9770114943
+Number of watched films:  37
+Split 74 rows into train=50 and test=24 rows
+predictions: 
+score:  87.5
+Number of watched films:  360
+Split 610 rows into train=409 and test=201 rows
+predictions: 
+score:  98.0099502488
+Number of watched films:  154
+Split 308 rows into train=207 and test=101 rows
+predictions: 
+score:  93.0693069307
+Number of watched films:  117
+Split 234 rows into train=157 and test=77 rows
+predictions: 
+score:  93.5064935065
+Number of watched films:  27
+Split 54 rows into train=37 and test=17 rows
+predictions: 
+score:  100.0
+Number of watched films:  57
+Split 114 rows into train=77 and test=37 rows
+predictions: 
+score:  83.7837837838
+Number of watched films:  67
+Split 134 rows into train=90 and test=44 rows
+predictions: 
+score:  100.0
+Number of watched films:  114
+Split 228 rows into train=153 and test=75 rows
+predictions: 
+score:  98.6666666667
+Number of watched films:  79
+Split 158 rows into train=106 and test=52 rows
+predictions: 
+score:  94.2307692308
+Number of watched films:  35
+Split 70 rows into train=47 and test=23 rows
+predictions: 
+score:  100.0
+Number of watched films:  128
+Split 256 rows into train=172 and test=84 rows
+predictions: 
+score:  89.2857142857
+Number of watched films:  79
+Split 158 rows into train=106 and test=52 rows
+predictions: 
+score:  98.0769230769
+Number of watched films:  90
+Split 180 rows into train=121 and test=59 rows
+predictions: 
+score:  94.9152542373
+Number of watched films:  87
+Split 174 rows into train=117 and test=57 rows
+predictions: 
+score:  68.4210526316
+Number of watched films:  146
+Split 292 rows into train=196 and test=96 rows
+predictions: 
+score:  100.0
+Number of watched films:  80
+Split 160 rows into train=108 and test=52 rows
+predictions: 
+score:  92.3076923077
+Number of watched films:  55
+Split 110 rows into train=74 and test=36 rows
+predictions: 
+score:  91.6666666667
+Number of watched films:  365
+Split 615 rows into train=413 and test=202 rows
+predictions: 
+score:  90.099009901
+Number of watched films:  60
+Split 120 rows into train=81 and test=39 rows
+predictions: 
+score:  97.4358974359
+Number of watched films:  160
+Split 320 rows into train=215 and test=105 rows
+predictions: 
+score:  94.2857142857
+94.056167577
